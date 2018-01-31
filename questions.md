@@ -64,7 +64,7 @@ String clanName;
 ```
 
 
-## player
+## coder
 ```Java
 String userName;
 int leaderBoardPosition;
@@ -74,7 +74,7 @@ String college;
 ```
 
 
-## player
+## employee
 ```Java
 String name;
 double salary;
